@@ -20,7 +20,7 @@ namespace Assignment1_OOP
         private void Form1_Load(object sender, EventArgs e)
         {
             string message = "Genrev Ferrer Linao";
-            string title = "Full Name:";
+            string title = "My Full Name:";
 
             MessageBox.Show(message, title);
         }
