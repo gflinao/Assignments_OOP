@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\bin\Debug\Assignment2_OOPscical.exe.config
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\bin\Debug\Assignment2_OOPscical.exe
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\bin\Debug\Assignment2_OOPscical.pdb
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\obj\Debug\Assignment2_OOPscical.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\obj\Debug\Assignment2_OOPscical.Form1.resources
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\obj\Debug\Assignment2_OOPscical.Properties.Resources.resources
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\obj\Debug\Assignment2_OOPscical.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\obj\Debug\Assignment2_OOPscical.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\obj\Debug\Assignment2_OOPscical.exe
+C:\Users\admin\source\repos\Assignment2_OOPscical\Assignment2_OOPscical\obj\Debug\Assignment2_OOPscical.pdb
